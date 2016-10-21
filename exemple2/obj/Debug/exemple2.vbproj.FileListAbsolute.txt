@@ -1,0 +1,11 @@
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\bin\Debug\exemple2.exe.config
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\bin\Debug\exemple2.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\bin\Debug\exemple2.pdb
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\bin\Debug\exemple2.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.vbprojResolveAssemblyReference.cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.Form1.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.Resources.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.vbproj.GenerateResource.Cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\exemple2\obj\Debug\exemple2.pdb
