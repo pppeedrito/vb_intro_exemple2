@@ -1,0 +1,15 @@
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\bin\Debug\p01.PedroNinci.exe.config
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\bin\Debug\p01.PedroNinci.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\bin\Debug\p01.PedroNinci.pdb
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\bin\Debug\p01.PedroNinci.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.vbprojResolveAssemblyReference.cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.Form1.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.Resources.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.vbproj.GenerateResource.Cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.pdb
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\p01.PedroNinci\p01.PedroNinci\bin\Debug\p01.PedroNinci.exe.config
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\exemple2\p01.PedroNinci\p01.PedroNinci\obj\Debug\p01.PedroNinci.pdb

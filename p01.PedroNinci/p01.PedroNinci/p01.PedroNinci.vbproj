@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22B3B75F-A1B9-4213-9DF3-DAE0D56510D7}</ProjectGuid>
+    <ProjectGuid>{6F1DF849-C8ED-4B42-88E1-289A3388323A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>exemple2.My.MyApplication</StartupObject>
-    <RootNamespace>exemple2</RootNamespace>
-    <AssemblyName>exemple2</AssemblyName>
+    <StartupObject>p01.PedroNinci.My.MyApplication</StartupObject>
+    <RootNamespace>p01.PedroNinci</RootNamespace>
+    <AssemblyName>p01.PedroNinci</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>exemple2.xml</DocumentationFile>
+    <DocumentationFile>p01.PedroNinci.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>exemple2.xml</DocumentationFile>
+    <DocumentationFile>p01.PedroNinci.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
